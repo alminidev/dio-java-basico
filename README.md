@@ -1,2 +1,3 @@
 # dio-java-basico
-Estudos em Java Básico
+
+Estudos em Java Básico - Alterando e sincronizando novos arquivos
