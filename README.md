@@ -1,4 +1,4 @@
-# dio-java-basico
+# Estudos em Java Básico
 
 Estudos em Java Básico
 Desde o primeiro Hello, World!, sabia que Java seria mais do que apenas uma linguagem de programação em minha vida; seria uma companheira na jornada do conhecimento. Com sua robustez e versatilidade, Java me abriu portas para o mundo da tecnologia e me desafiou a pensar de forma mais estruturada e lógica.
